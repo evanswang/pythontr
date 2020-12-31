@@ -2,6 +2,7 @@
 
 Class relation:
 
+``` sh
 Persion
 |
 |_ Student
@@ -9,3 +10,4 @@ Persion
 |_ Worker
   |
   |_ HR
+```
