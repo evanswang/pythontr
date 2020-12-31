@@ -3,7 +3,7 @@
 Class relation:
 
 ``` sh
-Persion
+Person
 |
 |_ Student
 |
